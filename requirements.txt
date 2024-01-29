@@ -1,0 +1,6 @@
+telethon
+asyncio
+tkintertable
+pysqlite3
+threaded
+pycryptodome
